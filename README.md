@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jingtao01Zhong
+- 👋 Hi, I’m Jingtao Zhong.
 - 🌱 I’m a senior student from Nanjing University of Aeronautics and Astronautics(PR.China).
-
+- ✨ In August, 2023, I will go to the Aalto University in Finland to do my master study.
 
 
 <!---
