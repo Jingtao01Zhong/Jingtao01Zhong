@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jingtao Zhong.
-- 🌱 I’m a senior student from Nanjing University of Aeronautics and Astronautics(PR.China).
-- ✨ In August, 2023, I will go to the Aalto University in Finland to do my master study.
+- :rocket: I got my bachelor's degree from Nanjing University of Aeronautics and Astronautics(PR.China) in June, 2023.
+- :snowflake: Now, I'm a master student at Aalto University.
 
 
 <!---
